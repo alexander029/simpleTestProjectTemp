@@ -5,6 +5,6 @@ public class HelloSample  {
         System.out.println("Hello Word");
     }
 }
-/*git commit7
+/*git commit8
 
  */
